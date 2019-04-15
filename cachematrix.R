@@ -1,4 +1,6 @@
 ## Caching the Inverse of a Matrix:
+## Matrix inversion is usually a costly computation and there may be some 
+
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
